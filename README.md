@@ -30,4 +30,4 @@ Front End
 <li> react-icons --save</li>
 <li> @reduxjs/toolkit</li>
 <li> react-redux</li>
-![screenshot](Screenshot 2024-03-25 at 5.02.39 PM.png)
+![screenshot](Screenshot.png)
