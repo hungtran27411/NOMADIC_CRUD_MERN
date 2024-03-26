@@ -32,4 +32,5 @@ Front End
 <li> react-redux</li>
 ![screenshot](Screenshot.png)
 <img src="Screenshot.png" width="128"/>
+![data](/Screenshot.png?raw=true " Data ")
 
