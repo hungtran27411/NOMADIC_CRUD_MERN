@@ -31,3 +31,5 @@ Front End
 <li> @reduxjs/toolkit</li>
 <li> react-redux</li>
 ![screenshot](Screenshot.png)
+<img src="Screenshot.png" width="128"/>
+
