@@ -32,5 +32,5 @@ Front End
 <li> react-redux</li>
 ![screenshot](Screenshot.png)
 <img src="Screenshot.png" width="128"/>
-![data](/Screenshot.png " Data ")
+![data](NOMADIC_CRUD_MERN/Screenshot.png " Data ")
 
